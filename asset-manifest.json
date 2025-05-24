@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/healthcare-dashboard/static/css/main.f1eed697.css",
+    "main.js": "/healthcare-dashboard/static/js/main.683319ac.js",
+    "index.html": "/healthcare-dashboard/index.html",
+    "main.f1eed697.css.map": "/healthcare-dashboard/static/css/main.f1eed697.css.map",
+    "main.683319ac.js.map": "/healthcare-dashboard/static/js/main.683319ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1eed697.css",
+    "static/js/main.683319ac.js"
+  ]
+}
