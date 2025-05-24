@@ -1,0 +1,21 @@
+.sidebar h3 {
+  margin: 0;
+  padding: 10px;
+  background-color: #4eafe0;
+  color: white;
+  border-radius: 4px;
+}
+
+.sidebar h3:hover {
+  background-color: #00aaff;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding-left: 15px;
+  margin-top: 5px;
+}
+
+.sidebar li {
+  padding: 6px 0;
+}
