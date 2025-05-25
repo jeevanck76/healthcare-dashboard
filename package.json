@@ -2,7 +2,7 @@
   "name": "healthcare-dashboard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jeevanck76.github.io/healthcare-dashboard",
+  "homepage": ".",
   "description": "This project was bootstrapped with Create React App.",
   "main": "index.js",
   "scripts": {
